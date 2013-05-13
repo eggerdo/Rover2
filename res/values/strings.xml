@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rover2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="ac13rover_res640x480">640 x 480</string>
+    <string name="ac13rover_res320x240">320 x 240</string>
+    
+</resources>
